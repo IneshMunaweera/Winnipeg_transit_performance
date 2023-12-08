@@ -1,0 +1,17 @@
+---
+title: "Competition 42039 - Assignment"
+author: "Inesh Munaweera"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Loading required packages and data
+
+```{r}
+
+```
+
